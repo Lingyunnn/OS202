@@ -1,0 +1,5 @@
+Nombre de valeurs locales : 25
+Valeurs initiales of bucket 1: [  1259  23945   1311   4276   1941 -16178 -15087 -22340   1776  22188
+ -14596 -20236   7456  29520  22437    880  24880 -23097  -1120  20046
+ -25282 -17767  32612 -31080 -12502]
+Temps pour le tri : 0.0 secondes
